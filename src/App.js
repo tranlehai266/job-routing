@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ThemeProvider, createTheme } from "@mui/material";
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import {  Routes, Route } from 'react-router-dom';
 import './App.css';
 import Jobtitle from "./component/Jobtitle";
 import Pagenext from "./component/Pagenext";

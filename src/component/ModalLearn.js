@@ -6,7 +6,7 @@ import Modal from '@mui/material/Modal';
 import { Chip, Divider } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
-import BasicModal from './BasicModal';
+
 
 const style = {
   position: 'absolute',
